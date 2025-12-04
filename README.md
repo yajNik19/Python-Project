@@ -48,9 +48,6 @@ USAGE
    - Translated speech is played instantly
 3. List Languages:
    - Click “List Languages” to see all available language codes.
-- DEVELOPERS
-- Shubham Singh
-- Yajnik Sharma
 
 DEVELOPERS
 - Shubham Singh
